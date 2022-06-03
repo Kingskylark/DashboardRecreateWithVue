@@ -41,7 +41,7 @@
         <a href="#services"><i class="fa fa-pie-chart" aria-hidden="true"></i> Charts <i class="ml-1 fa fa-caret-left"
             aria-hidden="true"></i> </a>
       </div>
-      <i v-else class="fa fa-bars ml-3 mt-2 bar" aria-hidden="true" @click="toggleSideNav()">SideBar</i>
+      <i v-else class="fa fa-bars ml-3 mt-2 bar" aria-hidden="true" @click="toggleSideNav()"></i>
 
       </div>
      
