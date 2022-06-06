@@ -63,6 +63,11 @@ methods:{
 </script>
 
 <style>
+@media (max-width:480px) {
+  .sidenav{
+    display: none;
+  }
+}
 .sidebar {
     height: 100vh;
     position: sticky;
